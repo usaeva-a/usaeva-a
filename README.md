@@ -1,9 +1,9 @@
-## 👋 Привет! Я Альбина Усаева - @usaeva-a :woman_technologist:
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Привет! Я Альбина Усаева - @usaeva-a :woman_technologist:
 
 
 - 🔨 10 лет была geoscientist сейчас начинающий data scientist
 - 🌱 Завершила обучение в Яндекс.Практикуме и открыта к новым предложениям 
-- 📫 [Мой телеграм](https://t.me/AlbinaUsaeva)
+- 📫 Мой телеграм [<img src="https://github.com/usaeva-a/usaeva-a/assets/161749568/a54442e2-6d14-4182-8828-83be05932667" width="20"/>](https://t.me/AlbinaUsaeva) 
 - 👩‍💻 Стек: 
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
