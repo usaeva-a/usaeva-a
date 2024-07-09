@@ -3,7 +3,7 @@
 
 - 🔨 10 лет была geoscientist сейчас начинающий data scientist
 - 🌱 Завершила обучение в Яндекс.Практикуме и открыта к новым предложениям 
-- 📫 Пишите мне на [<img src="https://github.com/usaeva-a/usaeva-a/assets/161749568/a54442e2-6d14-4182-8828-83be05932667" width="20"/>](https://t.me/AlbinaUsaeva) 
+- 📫 Пишите мне на [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="85" height="20"/>](https://t.me/AlbinaUsaeva) 
 - 👩‍💻 Используемый стек: 
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
