@@ -3,12 +3,13 @@
 
 - 🔨 10 лет была geoscientist сейчас начинающий data scientist
 - 🌱 Завершила обучение в Яндекс.Практикуме и открыта к новым предложениям 
-- 📫 Мой телеграм [<img src="https://github.com/usaeva-a/usaeva-a/assets/161749568/a54442e2-6d14-4182-8828-83be05932667" width="20"/>](https://t.me/AlbinaUsaeva) 
-- 👩‍💻 Стек: 
+- 📫 Пишите мне на [<img src="https://github.com/usaeva-a/usaeva-a/assets/161749568/a54442e2-6d14-4182-8828-83be05932667" width="20"/>](https://t.me/AlbinaUsaeva) 
+- 👩‍💻 Используемый стек: 
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Spring" alt="Spring" width="70" height="20"/>&nbsp;
