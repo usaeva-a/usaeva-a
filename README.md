@@ -1,7 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Привет! Я Альбина Усаева - @usaeva-a :woman_technologist:
 
-
-- 🔨 10 лет была geoscientist сейчас начинающий data scientist
 - 🌱 Завершила обучение в Яндекс.Практикуме и открыта к новым предложениям 
 - 📫 Пишите мне на [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="85" height="20"/>](https://t.me/AlbinaUsaeva) 
 - 👩‍💻 Используемый стек: 
